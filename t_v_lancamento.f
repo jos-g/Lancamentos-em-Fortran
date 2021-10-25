@@ -1,7 +1,6 @@
 program vxt_txt
 implicit none
- character(len=100) :: nome_arq
- integer :: i, ios
+ integer :: i
  real :: delta_t, k, a
  real :: voy, vox, b
  real :: vx, vy, v !declarar variáveis
