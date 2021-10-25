@@ -1,7 +1,6 @@
 program xyt_txt
 implicit none
- character(len=100) :: nome_arq
- integer :: i, ios
+ integer :: i
  real :: delta_t
  real :: h, d_x
  real :: vox !declarar variáveis
